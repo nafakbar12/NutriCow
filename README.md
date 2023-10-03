@@ -54,8 +54,8 @@ To prevent shortages or excess inventory, NutriCow includes an inventory managem
 5. Sustainability Insights:
 Our platform offers valuable sustainability insights by quantifying the environmental impact of different ration formulations. This empowers farmers to make choices that reduce greenhouse gas emissions, lower water usage, and decrease the overall ecological footprint of their operations.
 
-**Why NutriCow Is an Improvement:
-**
+Why NutriCow Is an Improvement:
+
 Compared to traditional ration formulation methods, NutriCow offers several advantages:
 
 Precision: NutriCow's data-driven approach ensures that rations are precisely tailored to the specific needs of each herd, resulting in healthier and more productive cattle.
@@ -91,7 +91,7 @@ INSTRUCTIONS: List any other IBM technology used in your solution and describe h
 
 Diagram and step-by-step description of the flow of our solution:
 
-![Video transcription/translaftion app](https://developer.ibm.com/developer/tutorials/cfc-starter-kit-speech-to-text-app-example/images/cfc-covid19-remote-education-diagram-2.png)
+![(https://github.com/nafakbar12/NutriCow_2/blob/main/NutriCow%20System%20Architecture.jpg)]
 
 1. The user navigates to the site and uploads a video file.
 2. Watson Speech to Text processes the audio and extracts the text.
