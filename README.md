@@ -91,7 +91,7 @@ INSTRUCTIONS: List any other IBM technology used in your solution and describe h
 
 Diagram and step-by-step description of the flow of our solution:
 
-https://github.com/nafakbar12/NutriCow_2/blob/main/NutriCow%20System%20Architecture.jpg
+![NutriCow Architecture](https://github.com/nafakbar12/NutriCow_2/blob/main/NutriCow%20System%20Architecture.jpg)
 
 1. The user navigates to the site and uploads a video file.
 2. Watson Speech to Text processes the audio and extracts the text.
