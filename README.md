@@ -118,7 +118,7 @@ In the future we plan to...
 
 See below for our proposed schedule on next steps after Call for Code 2023 submission.
 
-![Roadmap]([NutriCow Product Roadmap.jpg](https://github.com/nafakbar12/NutriCow/blob/main/NutriCow%20Product%20Roadmap.jpg))
+![Roadmap](https://github.com/nafakbar12/NutriCow/blob/main/NutriCow%20Product%20Roadmap.jpg)
 
 ## Additional details
 
