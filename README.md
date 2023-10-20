@@ -14,14 +14,6 @@
 - [Additional details](#additional-details)
   - [How to run the project](#how-to-run-the-project)
   - [Live demo](#live-demo)
-- [About this template](#about-this-template)
-  - [Contributing](#contributing)
-  - [Versioning](#versioning)
-  - [Authors](#authors)
-  - [License](#license)
-  - [Acknowledgments](#acknowledgments)
-
-_INSTRUCTIONS: Complete all required deliverable sections below._
 
 ## Project summary
 
@@ -35,7 +27,7 @@ NutriCow streamlines and optimizes cattle nutrition management, offering farmers
 
 ### Our idea
 
-Cattle farming plays a vital role in meeting global food demand. However, it is also a significant contributor to environmental challenges such as methane emissions and resource overuse. One of the key factors impacting these challenges is the suboptimal feeding of livestock. Farmers often struggle to formulate well-balanced rations tailored to their specific resources, resulting in lower milk production, slower weight gain, and increased costs.
+Cattle farming plays a vital role in meeting global food demand. However, it is also a significant contributor to environmental challenges such as methane emissions and resource overuse. One of the key factors impacting these challenges is the suboptimal feeding of livestock. Farmers often struggle to formulate well-balanced rations tailored to their specific resources, resulting in lower milk production, lower weight gain, and increased costs.
 
 NutriCow was conceived as an innovative technological solution to revolutionize cattle nutrition management. Our platform harnesses the power of data analytics and AI to provide farmers with precise, cost-effective ration formulation. Here's how NutriCow works:
 
@@ -74,14 +66,8 @@ More detail is available in our [description document](/DESCRIPTION.md).
 
 ### IBM AI service(s) used
 
-_INSTRUCTIONS: Included here is a list of commonly used IBM AI services. Remove any services you did not use, or add others from the linked catalog not already listed here. Leave only those included in your solution code. Provide details on where and how you used each IBM AI service to help judges review your implementation. Remove these instructions._
-
-- [IBM Natural Language Understanding](https://cloud.ibm.com/catalog/services/natural-language-understanding) - WHERE AND HOW THIS IS USED IN OUR SOLUTION
-- [Watson Assistant](https://cloud.ibm.com/catalog/services/watson-assistant) - WHERE AND HOW THIS IS USED IN OUR SOLUTION
-- [Watson Discovery](https://cloud.ibm.com/catalog/services/watson-discovery) - WHERE AND HOW THIS IS USED IN OUR SOLUTION
 - [Watson Speech to Text](https://cloud.ibm.com/catalog/services/speech-to-text) - WHERE AND HOW THIS IS USED IN OUR SOLUTION
 - [Watson Text to Speech](https://cloud.ibm.com/catalog/services/text-to-speech) - WHERE AND HOW THIS IS USED IN OUR SOLUTION
-- List any additional [IBM AI services](https://cloud.ibm.com/catalog?category=ai#services) used or remove this line
 
 ### Other IBM technology used
 
@@ -130,36 +116,5 @@ INSTRUCTIONS: In this section you add the instructions to run your project on yo
 
 ### Live demo
 
-You can find a running system to test at...
+See our [Live Demo](https://phpstack-1085149-3999761.cloudwaysapps.com/login) for log in credentials.
 
-See our [description document](/DESCRIPTION.md) for log in credentials.
-
----
-
-_INSTRUCTIONS: You can remove the below section from your specific project README._
-
-## About this template
-
-### Contributing
-
-Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests to us.
-
-### Versioning
-
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags).
-
-### Authors
-
-<a href="https://github.com/Call-for-Code/Project-Sample/graphs/contributors">
-  <img src="https://contributors-img.web.app/image?repo=Call-for-Code/Project-Sample" />
-</a>
-
-- **Billie Thompson** - _Initial work_ - [PurpleBooth](https://github.com/PurpleBooth)
-
-### License
-
-This project is licensed under the Apache 2 License - see the [LICENSE](LICENSE) file for details.
-
-### Acknowledgments
-
-- Based on [Billie Thompson's README template](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2).
