@@ -118,7 +118,7 @@ In the future we plan to...
 
 See below for our proposed schedule on next steps after Call for Code 2023 submission.
 
-![Roadmap](./images/roadmap.jpg)
+![Roadmap](/NutriCow_Product_Roadmap.jpg)
 
 ## Additional details
 
@@ -132,7 +132,7 @@ INSTRUCTIONS: In this section you add the instructions to run your project on yo
 
 You can find a running system to test at...
 
-See our [description document](./docs/DESCRIPTION.md) for log in credentials.
+See our [description document](/DESCRIPTION.md) for log in credentials.
 
 ---
 
