@@ -1,0 +1,13 @@
+[Unit]
+Description=Prediction Service
+After=multi-user.target
+[Service]
+User=ubuntu
+Restart=always
+TimeoutSec=600
+Restart=on-failure
+WorkingDirectory=/home/ubuntu/nutrition
+RuntimeDirectoryMode=755
+ExecStart=python3 /home/ubuntu/nutrition/nutricow_model.py
+[Install]
+WantedBy=multi-user.target
