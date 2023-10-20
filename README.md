@@ -68,7 +68,7 @@ Real-time Monitoring: The platform's real-time updates enable prompt actions, pr
 
 NutriCow represents a significant leap forward in sustainable cattle farming, addressing environmental concerns while enhancing profitability for farmers. It empowers farmers with data and technology to make informed decisions, contributing to a more sustainable and efficient livestock industry.
 
-More detail is available in our [description document](./docs/DESCRIPTION.md).
+More detail is available in our [description document](/DESCRIPTION.md).
 
 ## Technology implementation
 
