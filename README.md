@@ -93,18 +93,8 @@ _INSTRUCTIONS: The following deliverables should be officially posted to your My
 [![Watch the video](https://raw.githubusercontent.com/Liquid-Prep/Liquid-Prep/main/images/readme/IBM-interview-video-image.png)](https://youtu.be/vOgCOoy_Bx0)
 
 ### Project development roadmap
-
-The project currently does the following things.
-
-- Feature 1
-- Feature 2
-- Feature 3
-
-In the future we plan to...
-
 See below for our proposed schedule on next steps after Call for Code 2023 submission.
-
-![Roadmap](https://github.com/nafakbar12/NutriCow/blob/main/NutriCow%20Product%20Roadmap.jpg)
+![Roadmap](https://github.com/nafakbar12/NutriCow/blob/main/NutriCow%20Product%20Roadmap.png)
 
 ## Additional details
 
