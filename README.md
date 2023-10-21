@@ -80,7 +80,7 @@ Diagram flow of our solution:
 
 ### Solution demo video
 
-[![Watch the video](https://youtu.be/kQ5FWCdYEbI)
+![Watch the video](https://youtu.be/kQ5FWCdYEbI)
 
 ### Project development roadmap
 See below for our proposed schedule on next steps after Call for Code 2023 submission.
