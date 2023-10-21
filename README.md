@@ -66,27 +66,17 @@ More detail is available in our [description document](/DESCRIPTION.md).
 
 ### IBM AI service(s) used
 
-- [Watson Speech to Text](https://cloud.ibm.com/catalog/services/speech-to-text) - WHERE AND HOW THIS IS USED IN OUR SOLUTION
-- [Watson Text to Speech](https://cloud.ibm.com/catalog/services/text-to-speech) - WHERE AND HOW THIS IS USED IN OUR SOLUTION
+- [Watson Speech to Text](https://cloud.ibm.com/catalog/services/speech-to-text) - The users can input their data through their voice using the Voice 
 
 ### Other IBM technology used
 
-INSTRUCTIONS: List any other IBM technology used in your solution and describe how each component was used. If you can provide links to/details on exactly where these were used in your code, that would help the judges review your submission.
+- IBM Cloud Storage - We used stored our audio file for Speech to Text functionality.
 
 ### Solution architecture
 
-Diagram and step-by-step description of the flow of our solution:
+Diagram flow of our solution:
 
 ![NutriCow Architecture](https://github.com/nafakbar12/NutriCow_2/blob/main/NutriCow%20System%20Architecture.jpg)
-
-1. The user navigates to the site and uploads a video file.
-2. Watson Speech to Text processes the audio and extracts the text.
-3. Watson Translation (optionally) can translate the text to the desired language.
-4. The app stores the translated text as a document within Object Storage.
-
-## Presentation materials
-
-_INSTRUCTIONS: The following deliverables should be officially posted to your My Team > Submissions section of the [Call for Code Global Challenge resources site](https://cfc-prod.skillsnetwork.site/), but you can also include them here for completeness. Replace the examples seen here with your own deliverable links._
 
 ### Solution demo video
 
@@ -95,14 +85,6 @@ _INSTRUCTIONS: The following deliverables should be officially posted to your My
 ### Project development roadmap
 See below for our proposed schedule on next steps after Call for Code 2023 submission.
 ![Roadmap](https://github.com/nafakbar12/NutriCow/blob/main/NutriCow%20Product%20Roadmap.png)
-
-## Additional details
-
-_INSTRUCTIONS: The following deliverables are suggested, but **optional**. Additional details like this can help the judges better review your solution. Remove any sections you are not using._
-
-### How to run the project
-
-INSTRUCTIONS: In this section you add the instructions to run your project on your local machine for development and testing purposes. You can also add instructions on how to deploy the project in production.
 
 ### Live demo
 
